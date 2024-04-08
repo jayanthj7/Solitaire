@@ -1,0 +1,1 @@
+Main-Class :out/production/console-solitaire/solitaire/Solitaire.class
